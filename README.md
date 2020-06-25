@@ -1,7 +1,7 @@
 # PallyConCpixModule V2
 
-- PallyCon KMS 서버와 CPix 연동 규격을 통해 key를 발급 받을 수 있는 모듈
-- 멀티키 구현
+- A module that can issue keys through PallyCon KMS server and CPIX interface standard
+- Supports multi-key packaging
 
 
 ## 💡 Getting Started
